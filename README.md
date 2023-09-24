@@ -1,6 +1,7 @@
 # Anime-recommendation-engine
-Live : https://anime-recommendation-engine-jdjk5ae6vmxuoo5oruca7q.streamlit.app/
-Dataset used : https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews
+Live : [Anime Recommendation Engine - Streamlit](https://anime-recommendation-engine-jdjk5ae6vmxuoo5oruca7q.streamlit.app/)
+
+Dataset used : [Anime Dataset](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews)
 
 ## ✨ Inspiration
 - As an avid anime fan, I've often found it challenging to discover new and exciting anime series to watch. To address this issue, I embarked on the journey to create ARES (Anime Recommendation Engine - Streamlit), a personalized recommendation system that helps anime enthusiasts like myself discover hidden gems in the vast world of anime.
