@@ -1,5 +1,5 @@
-# Anime-recommendation-engine
-Live : [Anime Recommendation Engine - Streamlit](https://anime-recommendation-engine-jdjk5ae6vmxuoo5oruca7q.streamlit.app/)
+# Random Anime Recommender
+Live : [Random Anime Recommender](https://anime-recommendation-engine-jdjk5ae6vmxuoo5oruca7q.streamlit.app/)
 
 Dataset used : [Anime Dataset](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews)
 
