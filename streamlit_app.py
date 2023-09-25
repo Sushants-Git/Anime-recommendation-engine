@@ -8,7 +8,7 @@ from PIL import Image
 with open('./style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
-st.title("Anime Recommendation Engine - Streamlit (ARES)")
+st.title("Random Anime Recommender")
 
 DATA_URL = "./datafile/animes.csv"
 
